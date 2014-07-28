@@ -3,6 +3,7 @@
 - backbone and dust.js and grails
 - nested views in backbone are problematic
 - two way data-binding not quite there
+- lots of boilerplate code
 - still using the Jquery view of the world
 
 notes:
@@ -11,4 +12,5 @@ notes:
  	- we implemented a postRender function to allow us to trigger functionality after view was rendered. Worked fine in pre-prod, but failed in the wild.
  		Many 'type is undefined' errors when trying to use jquery validator
  	- There were some plugins to help with this, but not easy to deal with
+ 	- Data access, template rendering, etc...
  	- Still needed to use Jquery for DOM manipulation, form validation, etc... 
