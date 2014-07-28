@@ -12,7 +12,7 @@
  - Lots of $emit, $broadcast, $on, and $watch
  - Transition to Services
  - Demystifying scopes
- - scopes and objects copy by val vs ref
+ - scopes and objects s
  - When to use a directive (I'm still not sure?)
  - Learning too much at once (Jasmine, Coffee, Grunt, SASS, & Angular a bit much)
 
