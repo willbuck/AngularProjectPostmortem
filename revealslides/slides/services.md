@@ -6,7 +6,7 @@
 - Moving to Restful services
 - Custom endpoints
 - Roll our own
-- restangular
+- restangular (TODO Investigate)
 	- nested requests
 	- deal with objects or promises at same time
 	- custom methods
@@ -22,3 +22,4 @@ notes:
 	- $http has its limitations
 	- doubleClick at ng-conf showed a way of wrapping $http to allow for custom endpoints and had a better way of testing service calls
 	- way too much boiler plate code. started using restangular
+	- NG-BOOK has Restangular in it, check there for more

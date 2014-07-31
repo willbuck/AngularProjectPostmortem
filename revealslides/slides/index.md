@@ -1,10 +1,13 @@
-
 # Large Angular Project Postmortem
 
-From the terminal, pop in:
+(TODO Picture?)
+[@wbucksoft](http://www.twitter.com/wbucksoft)
 
-  ```yo reveal:slide "Slide Title"```
+[willbuck @ github](http://www.github.com/willbuck)
 
-Available options:
+(TODO picture?)
+[@zlegein](http://www.twitter.com/zlegein)
 
- ```--markdown --attributes --notes```
+[zlegein @ github](http://www.github.com/zlegein)
+
+note:
