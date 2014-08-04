@@ -14,7 +14,7 @@
 	- extend models
 	- request and response and error interceptors
 
-notes:
+note:
 	- we started by looking at the mock ups and just writing a lot of services to get the exact data we needed for the view
 	- $resource, at the time, did not support promises. so we relied on $broadcast to notify changes to the data
 	- promises are great and removed all the $broadcast and $on calls we were doing

@@ -1,6 +1,22 @@
 [
     "index.md",
-    "large-angularjs-project-postmortem.md",
-    "outline.md",
-    "modules.md"    
+    [
+        "intended-audience.md",
+        "disclaimer.md",
+        "history.md",
+        "angular-at-virtuwell.md",
+        "why-angular.md",
+        "stack.md"
+    ],
+    [
+        "learning-process.md",
+        "the-learning-curve.md",
+        "jquery.md",
+        "scopes.md",
+        "services.md"
+    ],
+    [
+        "modules.md"
+    ]
+
 ]
