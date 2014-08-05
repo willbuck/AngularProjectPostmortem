@@ -16,7 +16,15 @@
         "services.md"
     ],
     [
+        "project-difficulties.md",
         "modules.md"
-    ]
-
+    ],
+    [
+        "polishing-up-gotchas.md"
+    ],
+    [
+        "takeaways-tldr.md"
+    ],
+    "thank-you.md",
+    "read-a-style-guide.md"
 ]

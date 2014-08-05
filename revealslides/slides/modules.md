@@ -1,6 +1,8 @@
 ##  Modules
 
-This is a new Markdown slide
+John Papa recommends module definition in its own file too, yay!
+
+[Module Def in Own File](https://github.com/johnpapa/angularjs-styleguide#single-responsibility)
 
 note:
     Put your speaker notes here.
