@@ -1,7 +1,7 @@
 # Large Angular Project Postmortem
 
 <div style="float: left;">
-<img src="/img/will-buck-dballer.jpg" style="width: 300px;"/>
+<img src="/img/will-buck-dballer.jpg" style="height: 300px;"/>
 <p>
 [@wbucksoft](http://www.twitter.com/wbucksoft)
 </p>
