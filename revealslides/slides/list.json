@@ -35,5 +35,30 @@
         "gotchas-e2e-testing.md",
         "gotchas-other-janitorial-tasks.md"
     ],
-    "thank-you.md"
+    [
+        "takeaways-tldr.md"
+    ],
+    "thank-you.md",
+    "read-a-style-guide.md",
+    [
+       "versions.md",
+        "versions-1.md"
+    ],
+    [
+        "dependencies.md",
+        "dependencies-1.md",
+        "dependencies-2.md"
+    ],
+    [
+        "routes.md",
+        "routes-1.md"
+    ],
+    "bootstrap.md",
+    "testing.md",
+    [
+        "practices.md",
+        "practices-2.md",
+        "practices-3.md"
+    ]
+
 ]
