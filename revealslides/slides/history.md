@@ -1,6 +1,7 @@
 ## A little History
 
- - Built original 'prototype' with no knowledge of how it'd be used, no model to go off of
+ - Built original 'prototype' with no knowledge of how it'd be used
+ - Closest Model (EMRs) didn't quite fit
  - Replacement to current and original application
  - We learned something about the domain model
  - Only need to support 1 browser (firefox)

@@ -12,4 +12,6 @@ For us, this was
 
 note:
     - May not need underscore, perhaps should be using lodash
+    - Note on TDD: I like it, we have 324ish unit tests, helps me write my code
+    - Some may say just write targeted E2E tests, I think there's value in both
     - "Just Ship It", is that Nike+'s motto?

@@ -1,6 +1,16 @@
 ## Scopes
 
-- glue between view and controller
+Beware of bind by value vs bind by reference
+
+```
+$scope.myBoolean = SomeService.thatBoolean
+// Asking for trouble
+SomeService.thatBoolean = false
+// Will save you headaches
+SomeService.thatBoolean = {value: false}
+```
+
+And for arrays...
 
 ```
 _.mixin({
