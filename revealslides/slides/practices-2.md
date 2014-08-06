@@ -1,6 +1,6 @@
 ### modules
 - how to organize
-- services, directives and filters are common
+- directives, filters (and services?) are common
 - naming, be consistent
 
 ```
@@ -11,3 +11,6 @@
 
 note:
     - started by breaking things up by type, controller, directive, filters, services
+    - That's generally considered bad now
+    - How "pure" do you want your modules?
+    - Services can live in them, depends on your needs

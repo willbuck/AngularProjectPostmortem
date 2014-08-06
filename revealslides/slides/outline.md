@@ -16,7 +16,7 @@
  - When to use a directive (I'm still not sure?)
  - Learning too much at once (Jasmine, Coffee, Grunt, SASS, & Angular a bit much)
 
-2. The Journey
+2. The Journey # TODO May need better title
  - Angular Version upgrades along the way, how to keep up
  - Node dependency management (grunt bower setting up CI build servers)
  - UI Router

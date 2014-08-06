@@ -11,6 +11,7 @@
     [
         "takeaways-tldr.md",
         "read-a-style-guide.md",
+        "good-resources.md",
         "use-libraries-you-find-useful.md",
         "js-life-moves-fast.md"
     ],
@@ -23,24 +24,7 @@
         "scopes.md",
         "services.md"
     ],
-    [
-        "project-difficulties.md",
-        "modules.md"
-    ],
-    [
-        "polishing-up-gotchas.md",
-        "gotchas-service-lifecycle-and-sharing-data.md",
-        "gotchas-service-2.md",
-        "gotchas-ui-router-nested-states.md",
-        "gotchas-security-roles-permissions.md",
-        "gotchas-e2e-testing.md",
-        "gotchas-other-janitorial-tasks.md"
-    ],
-    [
-        "takeaways-tldr.md"
-    ],
-    "thank-you.md",
-    "read-a-style-guide.md",
+    "project-difficulties.md",
     [
         "versions.md",
         "versions-1.md"
@@ -55,12 +39,29 @@
         "routes-1.md"
     ],
     "bootstrap.md",
-    "testing.md",
     [
-        "practices.md",
+        "testing.md",
+        "testing-2.md"
+    ],
+    "quick-tips.md",
+    [
         "practices-2.md",
         "practices-3.md"
     ],
-    "future-stuff.md",
-    "gotcha-service-2.md"
+    [
+        "future-stuff.md",
+        "future-stuff-2.md"
+    ],
+
+
+    [
+        "polishing-up-gotchas.md",
+        "gotchas-service-lifecycle-and-sharing-data.md",
+        "gotchas-service-2.md",
+        "gotchas-ui-router-nested-states.md",
+        "gotchas-security-roles-permissions.md",
+        "gotchas-e2e-testing.md",
+        "gotchas-other-janitorial-tasks.md"
+    ],
+    "thank-you.md"    
 ]

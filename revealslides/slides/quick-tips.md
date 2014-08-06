@@ -1,14 +1,9 @@
-### A word on best practices
+### Some quick tips 
 
 - Controller vs Ctrl
 - use prefix for directives
 - wrap scope values in object
 - use $scope.$digest vs $scope.apply()
-
-
-- tutorials not very helpful
-- ng-book very helpful
-- ng-conf very helpful
 
 
 note:
