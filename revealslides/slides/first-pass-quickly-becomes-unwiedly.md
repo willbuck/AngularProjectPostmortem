@@ -1,6 +1,6 @@
-##  Polishing Up: Gotchas
+##  First Pass: quickly becomes unwiedly
 
-![The 80-20 rule of effort](/img/80-20-rule.jpg)
+This is a new Markdown slide
 
 note:
     Put your speaker notes here.

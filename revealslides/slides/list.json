@@ -9,9 +9,16 @@
         "stack.md"
     ],
     [
+        "takeaways-tldr.md",
+        "read-a-style-guide.md",
+        "use-libraries-you-find-useful.md"
+    ],
+    [
         "learning-process.md",
         "the-learning-curve.md",
         "jquery.md",
+        "first-pass-controller-all-the-things.md",
+        "first-pass-quickly-becomes-unwiedly.md",
         "scopes.md",
         "services.md"
     ],
@@ -22,9 +29,6 @@
     [
         "polishing-up-gotchas.md"
     ],
-    [
-        "takeaways-tldr.md"
-    ],
-    "thank-you.md",
-    "read-a-style-guide.md"
+    "thank-you.md"
+
 ]

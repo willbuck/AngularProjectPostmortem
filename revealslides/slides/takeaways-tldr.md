@@ -1,6 +1,7 @@
-##  Takeaways (TL:DR;)
+##  Takeaways (TL;DR)
 
-TODO funny tldr pic here
+![TLDR Please](/img/memetldr.jpg)
 
 note:
-    - If you learned nothing else today, learn these things
+    - This is the gist of what we're going to talk about
+    - Feel free to tune out afterwards if you can take it from there
