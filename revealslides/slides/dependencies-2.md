@@ -1,3 +1,5 @@
+![Worked For Me](/img/worked-for-me.png)
+
 introduce grunt clean task
 
 - delete node modules
