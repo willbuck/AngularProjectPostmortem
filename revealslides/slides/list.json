@@ -11,7 +11,8 @@
     [
         "takeaways-tldr.md",
         "read-a-style-guide.md",
-        "use-libraries-you-find-useful.md"
+        "use-libraries-you-find-useful.md",
+        "js-life-moves-fast.md"
     ],
     [
         "learning-process.md",
@@ -27,8 +28,12 @@
         "modules.md"
     ],
     [
-        "polishing-up-gotchas.md"
+        "polishing-up-gotchas.md",
+        "gotchas-service-lifecycle-and-sharing-data.md",
+        "gotchas-ui-router-nested-states.md",
+        "gotchas-security-roles-permissions.md",
+        "gotchas-e2e-testing.md",
+        "gotchas-other-janitorial-tasks.md"
     ],
     "thank-you.md"
-
 ]

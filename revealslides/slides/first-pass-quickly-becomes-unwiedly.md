@@ -1,7 +1,10 @@
-##  First Pass: quickly becomes unwiedly
+##  First Pass: quickly becomes unwieldy
 
-This is a new Markdown slide
+- Avoid "scope soup"
+- controllerAs syntax helps
+- Share data in a .factory (or .value perhaps)
+- Magic controller inheritance makes very odd-looking code
+- If you're going to do it, at least give it some structure
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - There are dangers of sharing in a .factory though
