@@ -1,7 +1,9 @@
 ##  Gotchas: Controller / Service Lifecycle
 
-- Services (factories) are 
+ - Started with putting state on our services
+ - Moved to having stateful services and stateless service
+ - Ran into data bleed issues. When to reset the data
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    created a reset service to clear state from these services, not perfect
+

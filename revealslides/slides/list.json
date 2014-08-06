@@ -41,7 +41,7 @@
     "thank-you.md",
     "read-a-style-guide.md",
     [
-       "versions.md",
+        "versions.md",
         "versions-1.md"
     ],
     [
@@ -59,6 +59,7 @@
         "practices.md",
         "practices-2.md",
         "practices-3.md"
-    ]
-
+    ],
+    "future-stuff.md",
+    "gotcha-service-2.md"
 ]

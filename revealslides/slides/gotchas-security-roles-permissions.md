@@ -1,7 +1,12 @@
 ##  Gotchas: Security Roles & Permissions
 
-This is a new Markdown slide
+-
+```
+ core.config ($provide) ->
+     profile = angular.copy(window.myActiveProfile)
+     $provide.constant('activeProfile', profile)
+```
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - started out using interceptor to capture url to go to and then load log in module
+    - requirements didn't need that, and there was some so moved to static log on page
