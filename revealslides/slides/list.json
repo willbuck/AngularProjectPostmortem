@@ -30,7 +30,7 @@
     [
         "polishing-up-gotchas.md",
         "gotchas-service-lifecycle-and-sharing-data.md",
-        "gotcha-service-2.md",
+        "gotchas-service-2.md",
         "gotchas-ui-router-nested-states.md",
         "gotchas-security-roles-permissions.md",
         "gotchas-e2e-testing.md",
