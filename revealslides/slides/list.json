@@ -13,7 +13,8 @@
         "read-a-style-guide.md",
         "good-resources.md",
         "use-libraries-you-find-useful.md",
-        "js-life-moves-fast.md"
+        "js-life-moves-fast.md",
+        "meetup.md"
     ],
     [
         "learning-process.md",
@@ -52,8 +53,6 @@
         "future-stuff.md",
         "future-stuff-2.md"
     ],
-
-
     [
         "polishing-up-gotchas.md",
         "gotchas-service-lifecycle-and-sharing-data.md",
@@ -63,5 +62,5 @@
         "gotchas-e2e-testing.md",
         "gotchas-other-janitorial-tasks.md"
     ],
-    "thank-you.md"    
+    "thank-you.md"
 ]
