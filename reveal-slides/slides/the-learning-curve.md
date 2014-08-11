@@ -1,6 +1,6 @@
 ##  The learning curve
 
-![Angular Learning Curve](/img/angular-learning-curve.png)
+![Angular Learning Curve](img/angular-learning-curve.png)
 
 [Courtesy @bennadel](https://twitter.com/BenNadel)
 

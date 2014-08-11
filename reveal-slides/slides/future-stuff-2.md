@@ -4,7 +4,7 @@ and soon...
 
 (ZOMG)
 
-![everything breaks](/img/side-effects.png)
+![everything breaks](img/side-effects.png)
 
 note:
     - Its gonna break stuff, watch out
