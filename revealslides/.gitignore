@@ -1,9 +1,0 @@
-node_modules
-bower_components
-dist
-*.log
-*.iml
-index.html
-.sass-cache
-.DS_Store
-**.DS.Store
