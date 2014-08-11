@@ -1,7 +1,0 @@
-{
-  "generator-reveal": {
-    "presentationTitle": "Large Angular Project Postmortem",
-    "packageVersion": "0.0.0",
-    "useSass": true
-  }
-}
