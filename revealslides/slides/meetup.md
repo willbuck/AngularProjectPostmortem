@@ -9,5 +9,4 @@
 [Follow us @AngularMN](https://www.twitter.com/AngularMN)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    I have stickers too btw
