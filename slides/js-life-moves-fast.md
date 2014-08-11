@@ -1,6 +1,6 @@
 ##  JS Life moves fast
 
-![Bueller](/img/life-moves-fast.jpg)
+![Bueller](img/life-moves-fast.jpg)
 
 Stay in touch w/ current happenings
 

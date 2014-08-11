@@ -1,6 +1,6 @@
 ###  AngularJS? There's a meetup for that!
 
-<img src="/img/angularmn-2.png" style="height: 450px;"/>
+<img src="img/angularmn-2.png" style="height: 450px;"/>
 
 [AngularMN meets First Wednesday of Every month](https://www.meetup.com/AngularMN)
 

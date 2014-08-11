@@ -1,7 +1,7 @@
 # Large Angular Project Postmortem
 
 <div style="float: left;">
-<img src="/img/will-buck-dballer.jpg" style="height: 300px;"/>
+<img src="img/will-buck-dballer.jpg" style="height: 300px;"/>
 <p>
 [@wbucksoft](http://www.twitter.com/wbucksoft)
 </p>
@@ -11,7 +11,7 @@
 </div>
 
 <div style="float: right;">
-<img src="/img/Des_2010_1.jpg" style="height: 300px;"/>
+<img src="img/Des_2010_1.jpg" style="height: 300px;"/>
 <p>
 [@zlegein](http://www.twitter.com/zlegein)
 </p>

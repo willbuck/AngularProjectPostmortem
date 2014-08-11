@@ -1,4 +1,4 @@
-![layout](/img/practices-1.png)
+![layout](img/practices-1.png)
 
 note:
     - Debatable on tests in these module folders
