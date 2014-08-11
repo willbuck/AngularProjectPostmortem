@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Angular Project Postmortem",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "willbuck",
+    "githubRepository": "AngularProjectPostmortem"
+  }
+}
