@@ -21,3 +21,4 @@
 </div>
 
 note:
+  Zach won't be joining me for the final presentation, oh well

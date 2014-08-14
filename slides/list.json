@@ -26,9 +26,10 @@
         "services.md"
     ],
     "project-difficulties.md",
+    "quick-tips.md",
     [
-        "versions.md",
-        "versions-1.md"
+        "practices-2.md",
+        "practices-3.md"
     ],
     [
         "dependencies.md",
@@ -36,18 +37,19 @@
         "dependencies-2.md"
     ],
     [
-        "routes.md",
-        "routes-1.md"
-    ],
-    "bootstrap.md",
-    [
         "testing.md",
         "testing-2.md"
     ],
-    "quick-tips.md",
     [
-        "practices-2.md",
-        "practices-3.md"
+        "routes.md",
+        "routes-2.md",
+        "routes-1.md"
+
+    ],
+    "bootstrap.md",
+    [
+        "versions.md",
+        "versions-1.md"
     ],
     [
         "future-stuff.md",

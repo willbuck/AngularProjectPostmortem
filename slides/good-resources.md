@@ -5,6 +5,7 @@
 - [Thinkster](http://thinkster.io) Cool tutorial app, not all best practices
 - [NG-Book](http://www.ng-book.com) Comprehensive & constantly up to date
 - [NG-Conf Videos, esp DoubleClick Team](https://www.youtube.com/watch?v=62RvRQuMVyg)
+- [Year of Moo](http://www.yearofmoo.com) (Matias' Blog)
 
 note:
     All the ng-conf videos are great but that one especially is must-watch

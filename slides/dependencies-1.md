@@ -12,9 +12,9 @@
     ...
 }
 ```
+# DEM TILDES
 
 note:
     - this is a bower dependency list, node has a similar structure for server side dependencies
     - version equivalent essentially allows for auto updates (look at bower info angular-sanitize)
-    - this would lead to occasional dependency issues with other packages.
-    - delete all dependencies for both npm and bower, clean the cache, and then reinstall. to ensure everyone is running the same stuff
+    - this would lead to occasional dependency issues with other packages.    
