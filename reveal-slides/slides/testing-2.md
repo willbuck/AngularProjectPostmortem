@@ -18,5 +18,6 @@
 ```
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - Key things are watch out for ordering in files
+    - Make sure autoWatch is true
+    - Singlerun is great for CI, I found it nicer to have it rerun on changes in dev though

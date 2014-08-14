@@ -1,5 +1,10 @@
 ##  Outline
 
+TODO
+- Run through deck tonight
+- Feel out what to trim
+- Add App sketches
+
 0. Intro
  - The app we built, general problem space overview
  - Speed tests & development over Backbone aka Why Angular?
@@ -39,8 +44,3 @@
  - IE support (Angular 2 is dropping 8)
  - Be consistent (took us awhile to get there)
  - Dont let refactor be a dirty word to business
-
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

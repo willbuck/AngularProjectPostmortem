@@ -1,8 +1,10 @@
-##  Project Delivery
+## The Journey to Delivery
 
-How to deliver as a team w/ Angular
+Things we encountered as a team that helped us towards
+
+### shipping
 
 ![Teamwork](img/teamwork.jpeg)
 
 note:
-    - This is your section header slide Zach
+    - The Journey
