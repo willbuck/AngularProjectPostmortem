@@ -29,4 +29,4 @@ $scope.goToProperActivityRoute = (treatmentActivity, useRelative) ->
 ```
 
 note:
-    Sibling nested views that you get to both from a 4th nesting and a 3rd, tough
+Sibling nested views that you get to both from a 4th nesting and a 3rd, tough

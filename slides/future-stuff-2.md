@@ -7,5 +7,4 @@ and soon...
 ![everything breaks](img/side-effects.png)
 
 note:
-    - Its gonna break stuff, watch out
-    - TODO find a better picture for this?
+- Its gonna break stuff, watch out

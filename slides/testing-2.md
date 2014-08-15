@@ -18,6 +18,6 @@
 ```
 
 note:
-    - Key things are watch out for ordering in files
-    - Make sure autoWatch is true
-    - Singlerun is great for CI, I found it nicer to have it rerun on changes in dev though
+- Key things are watch out for ordering in files
+- Make sure autoWatch is true
+- Singlerun is great for CI, I found it nicer to have it rerun on changes in dev though
