@@ -10,7 +10,7 @@
 ```
 
 note:
-    - started by breaking things up by type, controller, directive, filters, services
-    - That's generally considered bad now
-    - How "pure" do you want your modules?
-    - Services can live in them, depends on your needs
+- started by breaking things up by type, controller, directive, filters, services
+- That's generally considered bad now
+- How "pure" do you want your modules?
+- Services can live in them, depends on your needs
