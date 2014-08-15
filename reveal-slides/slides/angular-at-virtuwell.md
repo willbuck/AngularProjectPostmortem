@@ -11,9 +11,4 @@
 
 
 note:
-    - Remind people what VW does
-    - Online Doctor's Office
-    - Treat about 50 common conditions
-    - In MN, WI, MI, IA, ND, AZ, VA
-    - Scrips sent to your pharm
-    - Take Insurance
+- Slide says it pretty much

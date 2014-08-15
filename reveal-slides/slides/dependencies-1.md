@@ -15,6 +15,6 @@
 # DEM TILDES
 
 note:
-    - this is a bower dependency list, node has a similar structure for server side dependencies
-    - version equivalent essentially allows for auto updates (look at bower info angular-sanitize)
-    - this would lead to occasional dependency issues with other packages.    
+- this is a bower dependency list, node has a similar structure for server side dependencies
+- version equivalent essentially allows for auto updates (look at bower info angular-sanitize)
+- this would lead to occasional dependency issues with other packages.

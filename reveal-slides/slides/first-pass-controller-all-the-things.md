@@ -5,5 +5,4 @@
 - ... So use rootScope.$emit / $on, listen for model changes?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Don't dwell too long here    

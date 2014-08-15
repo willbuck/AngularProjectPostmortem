@@ -7,4 +7,4 @@
 - If you're going to do it, at least give it some structure
 
 note:
-    - There are dangers of sharing in a .factory though
+- There are dangers of sharing in a .factory though
