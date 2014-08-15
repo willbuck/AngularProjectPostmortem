@@ -23,3 +23,18 @@
 ```
 $state.go("case.tabs.#{tab}", routeParams)
 ```
+
+```
+# TODO this kinda sucks how can we do better
+if useRelative then  relativePathPrepend = '^'
+if TreatmentActivityService.isActivityTreatmentPlan(treatmentActivity)
+    $state.go(relativePathPrepend + '.plan', {
+      encounterId: $stateParams.encounterId,
+      workUnitId: $stateParams.workUnitId
+    })
+else if TreatmentActivityService.isActivityCaseNote(treatmentActivity)
+    $state.go(relativePathPrepend + '.note', {
+      encounterId: $stateParams.encounterId,
+      workUnitId: $stateParams.workUnitId
+    })
+```

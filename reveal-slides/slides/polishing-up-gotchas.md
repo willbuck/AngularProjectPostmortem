@@ -3,5 +3,4 @@
 ![The 80-20 rule of effort](img/80-20-rule.jpg)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Its always the hardest to do the spit shining    

@@ -7,6 +7,4 @@
 - Continue cleaning up file structure to be consistent
 - move to angular 1.3
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+note:    
