@@ -2,7 +2,7 @@
 
 <img src="img/angularmn-2.png" style="height: 450px;"/>
 
-[AngularMN meets First Wednesday of Every month](https://www.meetup.com/AngularMN)
+[AngularMN meets first Wednesday of every month](https://www.meetup.com/AngularMN)
 
 [At Virtuwell Headquarters](http://bit.ly/1sz3Qib)
 
